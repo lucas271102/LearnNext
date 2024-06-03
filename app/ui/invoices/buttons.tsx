@@ -38,3 +38,6 @@ export function DeleteInvoice({ id }: { id: string }) {
     </>
   );
 }
+
+
+
